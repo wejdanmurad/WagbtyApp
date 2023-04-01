@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">وجبتي</string>
+    <string name="next">التالي</string>
+    <string name="skip">تخطي</string>
+    <string name="text_1">اطلب وجبتك واستلمها بسرعة</string>
+    <string name="text_2">يتمتع  موقعنا بتقديم افضل الوجبات </string>
+    <string name="text_3">   يمكنكم طلب وجبتكم المفضلة  \n من تطبيق وجبتي  </string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="userName">اسم المستخدم</string>
+    <string name="pass">كلمة المرور</string>
+    <string name="forget_pass">هل نسيت كلمة المرور ؟</string>
+    <string name="tv_regester_1">ليس لديك حساب؟</string>
+    <string name="tv_regester_2">إنشاء حساب جديد</string>
+    <string name="regester">إنشاء حساب </string>
+    <string name="reset_pass">تأكيد كلمة المرور</string>
+    <string name="phone">رقم  الجوال</string>
+    <string name="tv_login_1">لديك حساب؟</string>
+    <string name="tv_login_2">سجل الدخول</string>
+</resources>
