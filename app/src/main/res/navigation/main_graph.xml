@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_graph"
+    app:startDestination="@id/home">
+
+    <fragment
+        android:id="@+id/home"
+        android:name="com.sw.wagbtyapp.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/fragment_home" />
+    <fragment
+        android:id="@+id/buy"
+        android:name="com.sw.wagbtyapp.BuyFragment"
+        android:label="@string/buy"
+        tools:layout="@layout/fragment_buy" />
+
+    <fragment
+        android:id="@+id/heart"
+        android:name="com.sw.wagbtyapp.HeartFragment"
+        android:label="@string/heart"
+        tools:layout="@layout/fragment_heart" />
+    <fragment
+        android:id="@+id/user"
+        android:name="com.sw.wagbtyapp.UserFragment"
+        android:label="@string/user"
+        tools:layout="@layout/fragment_user" />
+
+
+</navigation>
